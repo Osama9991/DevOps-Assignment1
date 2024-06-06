@@ -1,1 +1,1 @@
-Vite boilerplate counter button where everytime the button is pressed, a random animal from an array will be added into an unordered list.
+Vite boilerplate with a button counter, also displays all the animals in the "Animals.jsx" file in order in an unordered list.
